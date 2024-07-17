@@ -8,8 +8,9 @@ def area(radius):
     输出：
     area：面积
     '''
-    
-    area = math.pi * radius**2
+
+    area = math.pi * radius ** 2
+
     return area
 
 def circumference(radius):
@@ -20,7 +21,7 @@ def circumference(radius):
     输出：
     circ：周长
     '''
-    
-    circ = 2 * math.pi * radius
-    return circ
 
+    circ = 2 * math.pi * radius
+
+    return circ
